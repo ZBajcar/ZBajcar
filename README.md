@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Zach
 
-I'm a Software Engineer in **Poughkeepsie, New York**, passionate about building **smart, scalable systems**. I code mainly in **TypeScript, JavaScript, Python, and PostgreSQL** and co-created **[Burrow](https://burrow-io.github.io/)** - an open-source data ingestion pipeline that streamlines RAG application development.
+I'm a Software Engineer in **Wappingers Falls, New York**, passionate about building **smart, scalable systems**. I code mainly in **TypeScript, JavaScript, Python, and PostgreSQL** and co-created **[Burrow](https://burrow-io.github.io/)** - an open-source data ingestion pipeline that streamlines RAG application development.
 
 When I'm not coding, you'll find me **walking my dog, exploring new restaurants around the city, or lifting heavy things at the gym**.
 
