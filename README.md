@@ -24,5 +24,5 @@ When I'm not coding, you'll find me **walking my dog, exploring new restaurants 
 
 ## 📫 How to Reach Me
 
-- [LinkedIn](https://www.linkedin.com/in/zach-bajcar-70b372371/)
+- [LinkedIn](https://www.linkedin.com/in/zbajcar)
 - [Email](mailto:zach.bajcar419@gmail.com)
